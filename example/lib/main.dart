@@ -38,16 +38,11 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
 
   @override
   Widget build(BuildContext context) {
-    final filteredIcons = icons
-        .where((icon) =>
-            _searchTerm.isEmpty ||
-            icon.title.toLowerCase().contains(_searchTerm.toLowerCase()))
-        .toList();
+    final filteredIcons = icons.where((icon) => _searchTerm.isEmpty || icon.title.toLowerCase().contains(_searchTerm.toLowerCase())).toList();
 
     return Scaffold(
       appBar: _isSearching ? _searchBar(context) : _titleBar(),
       body: Scrollbar(
-        isAlwaysShown: kIsWeb,
         child: GridView.builder(
           itemCount: filteredIcons.length,
           gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
