@@ -16,9 +16,7 @@ class FontAwesomeGalleryApp extends StatelessWidget {
       title: 'Font Awesome Flutter Gallery',
       theme: ThemeData.light().copyWith(
         iconTheme: const IconThemeData(size: 36.0, color: Colors.black87),
-        textTheme: const TextTheme(
-          bodyText2: TextStyle(fontSize: 16.0, color: Colors.black87),
-        ),
+        textTheme: const TextTheme(),
       ),
       home: const FontAwesomeGalleryHome(),
     );
