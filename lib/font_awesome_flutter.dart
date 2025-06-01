@@ -10216,13 +10216,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/space-station-moon-construction?style=solid
   /// death star, empire, kyber crystal, laser, not a moon, star wars, under construction
-  static const IconData solidSpaceStationMoonConstruction =
-      IconDataSolid(0xe034);
+  static const IconData solidSpaceStationMoonConstruction = IconDataSolid(0xe034);
 
   /// Alias space-station-moon-alt for icon [solidSpaceStationMoonConstruction]
   @Deprecated('Use "solidSpaceStationMoonConstruction" instead.')
-  static const IconData solidSpaceStationMoonAlt =
-      solidSpaceStationMoonConstruction;
+  static const IconData solidSpaceStationMoonAlt = solidSpaceStationMoonConstruction;
 
   /// Regular Space Station Moon Construction icon
   ///
@@ -10238,13 +10236,11 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/space-station-moon-construction?style=light
   /// death star, empire, kyber crystal, laser, not a moon, star wars, under construction
-  static const IconData lightSpaceStationMoonConstruction =
-      IconDataLight(0xe034);
+  static const IconData lightSpaceStationMoonConstruction = IconDataLight(0xe034);
 
   /// Alias space-station-moon-alt for icon [lightSpaceStationMoonConstruction]
   @Deprecated('Use "lightSpaceStationMoonConstruction" instead.')
-  static const IconData lightSpaceStationMoonAlt =
-      lightSpaceStationMoonConstruction;
+  static const IconData lightSpaceStationMoonAlt = lightSpaceStationMoonConstruction;
 
   /// Thin Space Station Moon Construction icon
   ///
@@ -10254,8 +10250,7 @@ class FontAwesomeIcons {
 
   /// Alias space-station-moon-alt for icon [thinSpaceStationMoonConstruction]
   @Deprecated('Use "thinSpaceStationMoonConstruction" instead.')
-  static const IconData thinSpaceStationMoonAlt =
-      thinSpaceStationMoonConstruction;
+  static const IconData thinSpaceStationMoonAlt = thinSpaceStationMoonConstruction;
 
   /// Solid Circle Dollar To Slot icon
   ///
@@ -16035,8 +16030,7 @@ class FontAwesomeIcons {
 
   /// Alias toilet-paper-reverse-slash for icon [solidToiletPaperUnderSlash]
   @Deprecated('Use "solidToiletPaperUnderSlash" instead.')
-  static const IconData solidToiletPaperReverseSlash =
-      solidToiletPaperUnderSlash;
+  static const IconData solidToiletPaperReverseSlash = solidToiletPaperUnderSlash;
 
   /// Regular Toilet Paper Under Slash icon
   ///
@@ -16056,8 +16050,7 @@ class FontAwesomeIcons {
 
   /// Alias toilet-paper-reverse-slash for icon [lightToiletPaperUnderSlash]
   @Deprecated('Use "lightToiletPaperUnderSlash" instead.')
-  static const IconData lightToiletPaperReverseSlash =
-      lightToiletPaperUnderSlash;
+  static const IconData lightToiletPaperReverseSlash = lightToiletPaperUnderSlash;
 
   /// Thin Toilet Paper Under Slash icon
   ///
@@ -16310,29 +16303,25 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/arrow-down-left-and-arrow-up-right-to-center?style=solid
   /// download, export, minimize, resize, scale, size, transfer
-  static const IconData solidArrowDownLeftAndArrowUpRightToCenter =
-      IconDataSolid(0xe092);
+  static const IconData solidArrowDownLeftAndArrowUpRightToCenter = IconDataSolid(0xe092);
 
   /// Regular Arrow Down Left And Arrow Up Right To Center icon
   ///
   /// https://fontawesome.com/icons/arrow-down-left-and-arrow-up-right-to-center?style=regular
   /// download, export, minimize, resize, scale, size, transfer
-  static const IconData arrowDownLeftAndArrowUpRightToCenter =
-      IconDataRegular(0xe092);
+  static const IconData arrowDownLeftAndArrowUpRightToCenter = IconDataRegular(0xe092);
 
   /// Light Arrow Down Left And Arrow Up Right To Center icon
   ///
   /// https://fontawesome.com/icons/arrow-down-left-and-arrow-up-right-to-center?style=light
   /// download, export, minimize, resize, scale, size, transfer
-  static const IconData lightArrowDownLeftAndArrowUpRightToCenter =
-      IconDataLight(0xe092);
+  static const IconData lightArrowDownLeftAndArrowUpRightToCenter = IconDataLight(0xe092);
 
   /// Thin Arrow Down Left And Arrow Up Right To Center icon
   ///
   /// https://fontawesome.com/icons/arrow-down-left-and-arrow-up-right-to-center?style=thin
   /// download, export, minimize, resize, scale, size, transfer
-  static const IconData thinArrowDownLeftAndArrowUpRightToCenter =
-      IconDataThin(0xe092);
+  static const IconData thinArrowDownLeftAndArrowUpRightToCenter = IconDataThin(0xe092);
 
   /// Solid Pills icon
   ///
@@ -24216,8 +24205,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/chart-pie-simple-circle-currency?style=solid
   /// analytics, chart, currency, diagram, graph, margin, money, pie
-  static const IconData solidChartPieSimpleCircleCurrency =
-      IconDataSolid(0xe604);
+  static const IconData solidChartPieSimpleCircleCurrency = IconDataSolid(0xe604);
 
   /// Regular Chart Pie Simple Circle Currency icon
   ///
@@ -24229,8 +24217,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/chart-pie-simple-circle-currency?style=light
   /// analytics, chart, currency, diagram, graph, margin, money, pie
-  static const IconData lightChartPieSimpleCircleCurrency =
-      IconDataLight(0xe604);
+  static const IconData lightChartPieSimpleCircleCurrency = IconDataLight(0xe604);
 
   /// Thin Chart Pie Simple Circle Currency icon
   ///
@@ -31708,29 +31695,25 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/arrow-up-right-and-arrow-down-left-from-center?style=solid
   /// enlarge, expand, maximize, resize, scale, size
-  static const IconData solidArrowUpRightAndArrowDownLeftFromCenter =
-      IconDataSolid(0xe0a0);
+  static const IconData solidArrowUpRightAndArrowDownLeftFromCenter = IconDataSolid(0xe0a0);
 
   /// Regular Arrow Up Right And Arrow Down Left From Center icon
   ///
   /// https://fontawesome.com/icons/arrow-up-right-and-arrow-down-left-from-center?style=regular
   /// enlarge, expand, maximize, resize, scale, size
-  static const IconData arrowUpRightAndArrowDownLeftFromCenter =
-      IconDataRegular(0xe0a0);
+  static const IconData arrowUpRightAndArrowDownLeftFromCenter = IconDataRegular(0xe0a0);
 
   /// Light Arrow Up Right And Arrow Down Left From Center icon
   ///
   /// https://fontawesome.com/icons/arrow-up-right-and-arrow-down-left-from-center?style=light
   /// enlarge, expand, maximize, resize, scale, size
-  static const IconData lightArrowUpRightAndArrowDownLeftFromCenter =
-      IconDataLight(0xe0a0);
+  static const IconData lightArrowUpRightAndArrowDownLeftFromCenter = IconDataLight(0xe0a0);
 
   /// Thin Arrow Up Right And Arrow Down Left From Center icon
   ///
   /// https://fontawesome.com/icons/arrow-up-right-and-arrow-down-left-from-center?style=thin
   /// enlarge, expand, maximize, resize, scale, size
-  static const IconData thinArrowUpRightAndArrowDownLeftFromCenter =
-      IconDataThin(0xe0a0);
+  static const IconData thinArrowUpRightAndArrowDownLeftFromCenter = IconDataThin(0xe0a0);
 
   /// Solid Location Arrow Up icon
   ///
@@ -32944,29 +32927,25 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/person-walking-dashed-line-arrow-right?style=solid
   /// exit, follow, refugee, uer
-  static const IconData solidPersonWalkingDashedLineArrowRight =
-      IconDataSolid(0xe553);
+  static const IconData solidPersonWalkingDashedLineArrowRight = IconDataSolid(0xe553);
 
   /// Regular Person Walking Dashed Line Arrow Right icon
   ///
   /// https://fontawesome.com/icons/person-walking-dashed-line-arrow-right?style=regular
   /// exit, follow, refugee, uer
-  static const IconData personWalkingDashedLineArrowRight =
-      IconDataRegular(0xe553);
+  static const IconData personWalkingDashedLineArrowRight = IconDataRegular(0xe553);
 
   /// Light Person Walking Dashed Line Arrow Right icon
   ///
   /// https://fontawesome.com/icons/person-walking-dashed-line-arrow-right?style=light
   /// exit, follow, refugee, uer
-  static const IconData lightPersonWalkingDashedLineArrowRight =
-      IconDataLight(0xe553);
+  static const IconData lightPersonWalkingDashedLineArrowRight = IconDataLight(0xe553);
 
   /// Thin Person Walking Dashed Line Arrow Right icon
   ///
   /// https://fontawesome.com/icons/person-walking-dashed-line-arrow-right?style=thin
   /// exit, follow, refugee, uer
-  static const IconData thinPersonWalkingDashedLineArrowRight =
-      IconDataThin(0xe553);
+  static const IconData thinPersonWalkingDashedLineArrowRight = IconDataThin(0xe553);
 
   /// Brands Material Design for Bootstrap icon
   ///
@@ -37367,8 +37346,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/magnifying-glass-arrows-rotate?style=solid
   /// clockwise, exchange, find, glass, inspection, magnifier, magnify, magnifying, magnifying glass tilted left, modify, preview, refresh, reload, renew, retry, rotate, search, similar, swap, tool, zoom
-  static const IconData solidMagnifyingGlassArrowsRotate =
-      IconDataSolid(0xe65e);
+  static const IconData solidMagnifyingGlassArrowsRotate = IconDataSolid(0xe65e);
 
   /// Regular Magnifying Glass Arrows Rotate icon
   ///
@@ -37380,8 +37358,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/magnifying-glass-arrows-rotate?style=light
   /// clockwise, exchange, find, glass, inspection, magnifier, magnify, magnifying, magnifying glass tilted left, modify, preview, refresh, reload, renew, retry, rotate, search, similar, swap, tool, zoom
-  static const IconData lightMagnifyingGlassArrowsRotate =
-      IconDataLight(0xe65e);
+  static const IconData lightMagnifyingGlassArrowsRotate = IconDataLight(0xe65e);
 
   /// Thin Magnifying Glass Arrows Rotate icon
   ///
@@ -45077,29 +45054,25 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/house-flood-water-circle-arrow-right?style=solid
   /// damage, flood, water
-  static const IconData solidHouseFloodWaterCircleArrowRight =
-      IconDataSolid(0xe50f);
+  static const IconData solidHouseFloodWaterCircleArrowRight = IconDataSolid(0xe50f);
 
   /// Regular House Flood Water Circle Arrow Right icon
   ///
   /// https://fontawesome.com/icons/house-flood-water-circle-arrow-right?style=regular
   /// damage, flood, water
-  static const IconData houseFloodWaterCircleArrowRight =
-      IconDataRegular(0xe50f);
+  static const IconData houseFloodWaterCircleArrowRight = IconDataRegular(0xe50f);
 
   /// Light House Flood Water Circle Arrow Right icon
   ///
   /// https://fontawesome.com/icons/house-flood-water-circle-arrow-right?style=light
   /// damage, flood, water
-  static const IconData lightHouseFloodWaterCircleArrowRight =
-      IconDataLight(0xe50f);
+  static const IconData lightHouseFloodWaterCircleArrowRight = IconDataLight(0xe50f);
 
   /// Thin House Flood Water Circle Arrow Right icon
   ///
   /// https://fontawesome.com/icons/house-flood-water-circle-arrow-right?style=thin
   /// damage, flood, water
-  static const IconData thinHouseFloodWaterCircleArrowRight =
-      IconDataThin(0xe50f);
+  static const IconData thinHouseFloodWaterCircleArrowRight = IconDataThin(0xe50f);
 
   /// Solid Square Poll Horizontal icon
   ///
@@ -51838,49 +51811,41 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/starfighter-twin-ion-engine-advanced?style=solid
   /// empire, tie fighter
-  static const IconData solidStarfighterTwinIonEngineAdvanced =
-      IconDataSolid(0xe28e);
+  static const IconData solidStarfighterTwinIonEngineAdvanced = IconDataSolid(0xe28e);
 
   /// Alias starfighter-alt-advanced for icon [solidStarfighterTwinIonEngineAdvanced]
   @Deprecated('Use "solidStarfighterTwinIonEngineAdvanced" instead.')
-  static const IconData solidStarfighterAltAdvanced =
-      solidStarfighterTwinIonEngineAdvanced;
+  static const IconData solidStarfighterAltAdvanced = solidStarfighterTwinIonEngineAdvanced;
 
   /// Regular Starfighter Twin Ion Engine Advanced icon
   ///
   /// https://fontawesome.com/icons/starfighter-twin-ion-engine-advanced?style=regular
   /// empire, tie fighter
-  static const IconData starfighterTwinIonEngineAdvanced =
-      IconDataRegular(0xe28e);
+  static const IconData starfighterTwinIonEngineAdvanced = IconDataRegular(0xe28e);
 
   /// Alias starfighter-alt-advanced for icon [starfighterTwinIonEngineAdvanced]
   @Deprecated('Use "starfighterTwinIonEngineAdvanced" instead.')
-  static const IconData starfighterAltAdvanced =
-      starfighterTwinIonEngineAdvanced;
+  static const IconData starfighterAltAdvanced = starfighterTwinIonEngineAdvanced;
 
   /// Light Starfighter Twin Ion Engine Advanced icon
   ///
   /// https://fontawesome.com/icons/starfighter-twin-ion-engine-advanced?style=light
   /// empire, tie fighter
-  static const IconData lightStarfighterTwinIonEngineAdvanced =
-      IconDataLight(0xe28e);
+  static const IconData lightStarfighterTwinIonEngineAdvanced = IconDataLight(0xe28e);
 
   /// Alias starfighter-alt-advanced for icon [lightStarfighterTwinIonEngineAdvanced]
   @Deprecated('Use "lightStarfighterTwinIonEngineAdvanced" instead.')
-  static const IconData lightStarfighterAltAdvanced =
-      lightStarfighterTwinIonEngineAdvanced;
+  static const IconData lightStarfighterAltAdvanced = lightStarfighterTwinIonEngineAdvanced;
 
   /// Thin Starfighter Twin Ion Engine Advanced icon
   ///
   /// https://fontawesome.com/icons/starfighter-twin-ion-engine-advanced?style=thin
   /// empire, tie fighter
-  static const IconData thinStarfighterTwinIonEngineAdvanced =
-      IconDataThin(0xe28e);
+  static const IconData thinStarfighterTwinIonEngineAdvanced = IconDataThin(0xe28e);
 
   /// Alias starfighter-alt-advanced for icon [thinStarfighterTwinIonEngineAdvanced]
   @Deprecated('Use "thinStarfighterTwinIonEngineAdvanced" instead.')
-  static const IconData thinStarfighterAltAdvanced =
-      thinStarfighterTwinIonEngineAdvanced;
+  static const IconData thinStarfighterAltAdvanced = thinStarfighterTwinIonEngineAdvanced;
 
   /// Solid Dice Six icon
   ///
@@ -57909,8 +57874,7 @@ class FontAwesomeIcons {
 
   /// Alias prescription-bottle-alt for icon [solidPrescriptionBottleMedical]
   @Deprecated('Use "solidPrescriptionBottleMedical" instead.')
-  static const IconData solidPrescriptionBottleAlt =
-      solidPrescriptionBottleMedical;
+  static const IconData solidPrescriptionBottleAlt = solidPrescriptionBottleMedical;
 
   /// Regular Prescription Bottle Medical icon
   ///
@@ -57930,8 +57894,7 @@ class FontAwesomeIcons {
 
   /// Alias prescription-bottle-alt for icon [lightPrescriptionBottleMedical]
   @Deprecated('Use "lightPrescriptionBottleMedical" instead.')
-  static const IconData lightPrescriptionBottleAlt =
-      lightPrescriptionBottleMedical;
+  static const IconData lightPrescriptionBottleAlt = lightPrescriptionBottleMedical;
 
   /// Thin Prescription Bottle Medical icon
   ///
@@ -57941,8 +57904,7 @@ class FontAwesomeIcons {
 
   /// Alias prescription-bottle-alt for icon [thinPrescriptionBottleMedical]
   @Deprecated('Use "thinPrescriptionBottleMedical" instead.')
-  static const IconData thinPrescriptionBottleAlt =
-      thinPrescriptionBottleMedical;
+  static const IconData thinPrescriptionBottleAlt = thinPrescriptionBottleMedical;
 
   /// Solid Plate Utensils icon
   ///
@@ -60618,8 +60580,7 @@ class FontAwesomeIcons {
 
   /// Alias american-sign-language-interpreting for icon [solidHandsAslInterpreting]
   @Deprecated('Use "solidHandsAslInterpreting" instead.')
-  static const IconData solidAmericanSignLanguageInterpreting =
-      solidHandsAslInterpreting;
+  static const IconData solidAmericanSignLanguageInterpreting = solidHandsAslInterpreting;
 
   /// Alias asl-interpreting for icon [solidHandsAslInterpreting]
   @Deprecated('Use "solidHandsAslInterpreting" instead.')
@@ -60627,8 +60588,7 @@ class FontAwesomeIcons {
 
   /// Alias hands-american-sign-language-interpreting for icon [solidHandsAslInterpreting]
   @Deprecated('Use "solidHandsAslInterpreting" instead.')
-  static const IconData solidHandsAmericanSignLanguageInterpreting =
-      solidHandsAslInterpreting;
+  static const IconData solidHandsAmericanSignLanguageInterpreting = solidHandsAslInterpreting;
 
   /// Regular Hands Asl Interpreting icon
   ///
@@ -60646,8 +60606,7 @@ class FontAwesomeIcons {
 
   /// Alias hands-american-sign-language-interpreting for icon [handsAslInterpreting]
   @Deprecated('Use "handsAslInterpreting" instead.')
-  static const IconData handsAmericanSignLanguageInterpreting =
-      handsAslInterpreting;
+  static const IconData handsAmericanSignLanguageInterpreting = handsAslInterpreting;
 
   /// Light Hands Asl Interpreting icon
   ///
@@ -60657,8 +60616,7 @@ class FontAwesomeIcons {
 
   /// Alias american-sign-language-interpreting for icon [lightHandsAslInterpreting]
   @Deprecated('Use "lightHandsAslInterpreting" instead.')
-  static const IconData lightAmericanSignLanguageInterpreting =
-      lightHandsAslInterpreting;
+  static const IconData lightAmericanSignLanguageInterpreting = lightHandsAslInterpreting;
 
   /// Alias asl-interpreting for icon [lightHandsAslInterpreting]
   @Deprecated('Use "lightHandsAslInterpreting" instead.')
@@ -60666,8 +60624,7 @@ class FontAwesomeIcons {
 
   /// Alias hands-american-sign-language-interpreting for icon [lightHandsAslInterpreting]
   @Deprecated('Use "lightHandsAslInterpreting" instead.')
-  static const IconData lightHandsAmericanSignLanguageInterpreting =
-      lightHandsAslInterpreting;
+  static const IconData lightHandsAmericanSignLanguageInterpreting = lightHandsAslInterpreting;
 
   /// Thin Hands Asl Interpreting icon
   ///
@@ -60677,8 +60634,7 @@ class FontAwesomeIcons {
 
   /// Alias american-sign-language-interpreting for icon [thinHandsAslInterpreting]
   @Deprecated('Use "thinHandsAslInterpreting" instead.')
-  static const IconData thinAmericanSignLanguageInterpreting =
-      thinHandsAslInterpreting;
+  static const IconData thinAmericanSignLanguageInterpreting = thinHandsAslInterpreting;
 
   /// Alias asl-interpreting for icon [thinHandsAslInterpreting]
   @Deprecated('Use "thinHandsAslInterpreting" instead.')
@@ -60686,8 +60642,7 @@ class FontAwesomeIcons {
 
   /// Alias hands-american-sign-language-interpreting for icon [thinHandsAslInterpreting]
   @Deprecated('Use "thinHandsAslInterpreting" instead.')
-  static const IconData thinHandsAmericanSignLanguageInterpreting =
-      thinHandsAslInterpreting;
+  static const IconData thinHandsAmericanSignLanguageInterpreting = thinHandsAslInterpreting;
 
   /// Solid Presentation Screen icon
   ///
@@ -61478,8 +61433,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/distribute-spacing-horizontal?style=solid
   /// align, line, padding, rectangle, spacing
-  static const IconData solidDistributeSpacingHorizontal =
-      IconDataSolid(0xe365);
+  static const IconData solidDistributeSpacingHorizontal = IconDataSolid(0xe365);
 
   /// Regular Distribute Spacing Horizontal icon
   ///
@@ -61491,8 +61445,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/distribute-spacing-horizontal?style=light
   /// align, line, padding, rectangle, spacing
-  static const IconData lightDistributeSpacingHorizontal =
-      IconDataLight(0xe365);
+  static const IconData lightDistributeSpacingHorizontal = IconDataLight(0xe365);
 
   /// Thin Distribute Spacing Horizontal icon
   ///
@@ -63450,8 +63403,7 @@ class FontAwesomeIcons {
 
   /// Alias thermometer-three-quarters for icon [solidTemperatureThreeQuarters]
   @Deprecated('Use "solidTemperatureThreeQuarters" instead.')
-  static const IconData solidThermometerThreeQuarters =
-      solidTemperatureThreeQuarters;
+  static const IconData solidThermometerThreeQuarters = solidTemperatureThreeQuarters;
 
   /// Regular Temperature Three Quarters icon
   ///
@@ -63487,8 +63439,7 @@ class FontAwesomeIcons {
 
   /// Alias thermometer-three-quarters for icon [lightTemperatureThreeQuarters]
   @Deprecated('Use "lightTemperatureThreeQuarters" instead.')
-  static const IconData lightThermometerThreeQuarters =
-      lightTemperatureThreeQuarters;
+  static const IconData lightThermometerThreeQuarters = lightTemperatureThreeQuarters;
 
   /// Thin Temperature Three Quarters icon
   ///
@@ -63506,8 +63457,7 @@ class FontAwesomeIcons {
 
   /// Alias thermometer-three-quarters for icon [thinTemperatureThreeQuarters]
   @Deprecated('Use "thinTemperatureThreeQuarters" instead.')
-  static const IconData thinThermometerThreeQuarters =
-      thinTemperatureThreeQuarters;
+  static const IconData thinThermometerThreeQuarters = thinTemperatureThreeQuarters;
 
   /// Solid Bell School icon
   ///
@@ -65272,8 +65222,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/house-medical-circle-exclamation?style=solid
   /// affected, clinic, failed, hospital
-  static const IconData solidHouseMedicalCircleExclamation =
-      IconDataSolid(0xe512);
+  static const IconData solidHouseMedicalCircleExclamation = IconDataSolid(0xe512);
 
   /// Regular House Medical Circle Exclamation icon
   ///
@@ -65285,15 +65234,13 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/house-medical-circle-exclamation?style=light
   /// affected, clinic, failed, hospital
-  static const IconData lightHouseMedicalCircleExclamation =
-      IconDataLight(0xe512);
+  static const IconData lightHouseMedicalCircleExclamation = IconDataLight(0xe512);
 
   /// Thin House Medical Circle Exclamation icon
   ///
   /// https://fontawesome.com/icons/house-medical-circle-exclamation?style=thin
   /// affected, clinic, failed, hospital
-  static const IconData thinHouseMedicalCircleExclamation =
-      IconDataThin(0xe512);
+  static const IconData thinHouseMedicalCircleExclamation = IconDataThin(0xe512);
 
   /// Solid Badminton icon
   ///
@@ -69526,8 +69473,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/objects-align-center-horizontal?style=solid
   /// align, distribute, line, rectangles
-  static const IconData solidObjectsAlignCenterHorizontal =
-      IconDataSolid(0xe3bc);
+  static const IconData solidObjectsAlignCenterHorizontal = IconDataSolid(0xe3bc);
 
   /// Regular Objects Align Center Horizontal icon
   ///
@@ -69539,8 +69485,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/objects-align-center-horizontal?style=light
   /// align, distribute, line, rectangles
-  static const IconData lightObjectsAlignCenterHorizontal =
-      IconDataLight(0xe3bc);
+  static const IconData lightObjectsAlignCenterHorizontal = IconDataLight(0xe3bc);
 
   /// Thin Objects Align Center Horizontal icon
   ///
@@ -82143,8 +82088,7 @@ class FontAwesomeIcons {
 
   /// Alias save-circle-arrow-right for icon [solidFloppyDiskCircleArrowRight]
   @Deprecated('Use "solidFloppyDiskCircleArrowRight" instead.')
-  static const IconData solidSaveCircleArrowRight =
-      solidFloppyDiskCircleArrowRight;
+  static const IconData solidSaveCircleArrowRight = solidFloppyDiskCircleArrowRight;
 
   /// Regular Floppy Disk Circle Arrow Right icon
   ///
@@ -82164,8 +82108,7 @@ class FontAwesomeIcons {
 
   /// Alias save-circle-arrow-right for icon [lightFloppyDiskCircleArrowRight]
   @Deprecated('Use "lightFloppyDiskCircleArrowRight" instead.')
-  static const IconData lightSaveCircleArrowRight =
-      lightFloppyDiskCircleArrowRight;
+  static const IconData lightSaveCircleArrowRight = lightFloppyDiskCircleArrowRight;
 
   /// Thin Floppy Disk Circle Arrow Right icon
   ///
@@ -82175,8 +82118,7 @@ class FontAwesomeIcons {
 
   /// Alias save-circle-arrow-right for icon [thinFloppyDiskCircleArrowRight]
   @Deprecated('Use "thinFloppyDiskCircleArrowRight" instead.')
-  static const IconData thinSaveCircleArrowRight =
-      thinFloppyDiskCircleArrowRight;
+  static const IconData thinSaveCircleArrowRight = thinFloppyDiskCircleArrowRight;
 
   /// Solid Folder Minus icon
   ///
@@ -88146,8 +88088,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/display-chart-up-circle-currency?style=solid
   /// analytics, chart, computer, currency, display, exchange, graph, investment, measure, money, monitor, roi, tracking, trading, trend
-  static const IconData solidDisplayChartUpCircleCurrency =
-      IconDataSolid(0xe5e5);
+  static const IconData solidDisplayChartUpCircleCurrency = IconDataSolid(0xe5e5);
 
   /// Regular Display Chart Up Circle Currency icon
   ///
@@ -88159,8 +88100,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/display-chart-up-circle-currency?style=light
   /// analytics, chart, computer, currency, display, exchange, graph, investment, measure, money, monitor, roi, tracking, trading, trend
-  static const IconData lightDisplayChartUpCircleCurrency =
-      IconDataLight(0xe5e5);
+  static const IconData lightDisplayChartUpCircleCurrency = IconDataLight(0xe5e5);
 
   /// Thin Display Chart Up Circle Currency icon
   ///
@@ -88649,8 +88589,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/up-right-and-down-left-from-center?style=solid
   /// arrows, bigger, enlarge, expand, fullscreen, maximize, resize, resize, scale, size
-  static const IconData solidUpRightAndDownLeftFromCenter =
-      IconDataSolid(0xf424);
+  static const IconData solidUpRightAndDownLeftFromCenter = IconDataSolid(0xf424);
 
   /// Alias expand-alt for icon [solidUpRightAndDownLeftFromCenter]
   @Deprecated('Use "solidUpRightAndDownLeftFromCenter" instead.')
@@ -88670,8 +88609,7 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/up-right-and-down-left-from-center?style=light
   /// arrows, bigger, enlarge, expand, fullscreen, maximize, resize, resize, scale, size
-  static const IconData lightUpRightAndDownLeftFromCenter =
-      IconDataLight(0xf424);
+  static const IconData lightUpRightAndDownLeftFromCenter = IconDataLight(0xf424);
 
   /// Alias expand-alt for icon [lightUpRightAndDownLeftFromCenter]
   @Deprecated('Use "lightUpRightAndDownLeftFromCenter" instead.')
