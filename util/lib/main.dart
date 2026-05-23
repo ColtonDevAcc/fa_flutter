@@ -31,6 +31,7 @@ const Map<String, String> nameAdjustments = {
   "00": "zeroZero",
   // found in aliases
   "100": "hundred",
+  "11ty": "eleven-ty",
 };
 
 /// Some aliases clash with reserved words of dartlang. Those are ignored.
